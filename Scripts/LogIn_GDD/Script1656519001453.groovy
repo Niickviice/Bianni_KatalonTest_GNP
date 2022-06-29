@@ -27,5 +27,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Fuerza de Ventas/i
 
 WebUI.click(findTestObject('Object Repository/Page_Fuerza de Ventas/button_Iniciar sesin'))
 
-WebUI.closeBrowser()
-
